@@ -6,7 +6,7 @@
 
 -💞️  I’m currently collabarating to GeoGuess/GeoGuess project
 
--📫  You can reach me using Discord - BurAndBY_Dev#349
+-📫  You can reach me using Discord - BurAndBY_Dev#3498
 
 <!---
 BurAndBY/BurAndBY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
