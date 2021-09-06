@@ -2,7 +2,8 @@
 
 -🌱 I’m currently learning Python
 
--🎈  I'm currently making my game called - Alive Alone
+<!--- -🎈  I'm currently making my game called - Alive Alone --->
+
 
 -💞️  I’m currently collabarating to GeoGuess/GeoGuess project
 
