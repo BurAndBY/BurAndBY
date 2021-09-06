@@ -6,7 +6,7 @@
 
 -💞️  I’m currently collabarating to GeoGuess/GeoGuess project
 
--📫  You can reach me using Discord - BurAndBY_Dev#3498
+-📫  You can reach me using Discord - SonOfSloth#3498
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=burandby)](https://github.com/anuraghazra/github-readme-stats)
 <!---
