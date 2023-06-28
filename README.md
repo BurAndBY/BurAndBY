@@ -2,5 +2,5 @@
 
 -🆁🅴 I do Unity games reverse engineering.
 
--📫  You can reach me using Discord - BurAndBY#6688
+-📫  You can reach me using Discord - BurAndBY#6688 or @burandby
 
